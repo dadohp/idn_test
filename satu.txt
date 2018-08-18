@@ -1,3 +1,5 @@
 satu
 
-dua
+<<<<<<< HEAD
+tiga
+>>>>>>> br_satu
