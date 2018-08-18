@@ -1,5 +1,1 @@
 satu
-
-<<<<<<< HEAD
-tiga
->>>>>>> br_satu
